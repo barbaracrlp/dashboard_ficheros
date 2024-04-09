@@ -130,6 +130,6 @@ class GaleriaMultPanel2Resource extends Resource
         ];
     }
 }
-/**aqui hago el primer comentario/cambio para
- * poder realizar el primer comit en git 
+/**aqui hago el segundo comentario/cambio para
+ * poder realizar el segundo comit en git 
  */
